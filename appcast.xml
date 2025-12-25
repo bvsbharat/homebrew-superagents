@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SuperAgents</title>
+    <link>https://github.com/bvsbharat/homebrew-superagents</link>
+    <description>SuperAgents App Updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h3>SuperAgents v1.0.0 - Initial Release</h3>
+        <ul>
+          <li>Voice-controlled AI assistant</li>
+          <li>Dynamic Island-style notch UI</li>
+          <li>Multiple AI providers (Claude, GPT, Gemini)</li>
+          <li>Screen interaction capabilities</li>
+          <li>Memory system for personalization</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/bvsbharat/homebrew-superagents/releases/download/v1.0.0/SuperAgents.dmg"
+        sparkle:version="1"
+        sparkle:shortVersionString="1.0.0"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
