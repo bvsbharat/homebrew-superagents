@@ -1,8 +1,8 @@
 cask "superagents" do
-  version "1.0.0"
-  sha256 :no_check  # Update with actual SHA256 when DMG is available
+  version "1.0.1"
+  sha256 "e53c1267406fd243c245476009f5d11d7ca1f3897507fa5594e6d88e72c8c583"
 
-  url "https://github.com/bvsbharat/homebrew-superagents/releases/download/v#{version}/SuperAgents.dmg"
+  url "https://github.com/bvsbharat/homebrew-superagents/releases/download/v#{version}/SuperAgents-v#{version}.dmg"
   name "SuperAgents"
   desc "Voice-controlled AI assistant with Dynamic Island-style notch UI"
   homepage "https://github.com/bvsbharat/SuperAgents"
