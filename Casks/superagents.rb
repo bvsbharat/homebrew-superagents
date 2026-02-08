@@ -1,6 +1,6 @@
 cask "superagents" do
-  version "1.0.1"
-  sha256 "e53c1267406fd243c245476009f5d11d7ca1f3897507fa5594e6d88e72c8c583"
+  version "1.3.2"
+  sha256 "1c4d7e1739f91198b8e4e76f6d2e5f936c8f8e1c3b8b2bcaa6a134f2115cb46d"
 
   url "https://github.com/bvsbharat/homebrew-superagents/releases/download/v#{version}/SuperAgents-v#{version}.dmg"
   name "SuperAgents"
